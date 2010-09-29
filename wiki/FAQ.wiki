@@ -19,3 +19,7 @@ A: The plugin has set constraints on which version of Firefox and Firebug it wil
 *Q: Why does not CSS-X-Fire work as expected after an update?*
 
 A: With every new version of the IDE plugin there is also a new version of the browser plugin. The corresponding browser plugin is always included in the IDE plugin. See step 2 in the [Installation] details.
+
+*Q: After installation/upgrade I was offered to update the browser plugin. For some reason I did not do it. How can I get the offer again?
+
+A: Simply press the "Help" button in the CSS-X-Fire toolwindow. See screenshot:

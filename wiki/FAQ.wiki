@@ -23,3 +23,4 @@ A: With every new version of the IDE plugin there is also a new version of the b
 *Q: After installation/upgrade I was offered to update the browser plugin. For some reason I did not do it. How can I get the offer again?
 
 A: Simply press the "Help" button in the CSS-X-Fire toolwindow. See screenshot:
+  <a href="http://css-x-fire.googlecode.com/svn/images/install_4.png"><img src="http://css-x-fire.googlecode.com/svn/images/install_4.png" width="120" height="80"/></a>

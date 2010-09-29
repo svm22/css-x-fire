@@ -1,5 +1,7 @@
 #summary How to install CSS-X-Fire
 
+[Installation] - [Screenshots] - [FAQ]
+
 = Requirements =
 
   * An IntelliJ family IDE with CSS capabilities, e.g. one of:

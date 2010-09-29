@@ -13,3 +13,7 @@ A: The selector can not be found in the project for some reason. The selector is
 *Q: Why is CSS-X-Fire plugin grayed out in Firefox add-ons list?*
 
 A: The plugin has set constraints on which version of Firefox and Firebug it will work with. If these are not met the plugin will be disabled. See the [Installation] page for requirements.
+
+*Q: Why does not CSS-X-Fire work as expected after an update?*
+
+A: With every new version of the IDE plugin there is also a new version of the browser plugin. The corresponding browser plugin is always included in the IDE plugin. See the [Installation] page for more help.

@@ -1,5 +1,7 @@
 #summary Frequently Asked Questions
 
+[Installation] - [Screenshots] - [FAQ]
+
 = Troubleshooting =
 
 *Q: CSS-X-Fire seems to not pick up Firebug changes?*

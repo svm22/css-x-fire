@@ -1,5 +1,7 @@
 #summary CSS-X-Fire screenshots
 
+[Installation] - [Screenshots] - [FAQ]
+
 http://css-x-fire.googlecode.com/svn/images/css-x-fire-2.png
 
 http://css-x-fire.googlecode.com/svn/images/css_x_fire_3.png

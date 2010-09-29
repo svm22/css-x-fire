@@ -19,5 +19,6 @@
   # After restarting the IDE, CSS-X-Fire will ask if you want to install the _browser plugin_. Click "Yes". This will open the builtin help page of CSS-X-Fire with a link to the browser plugin - *cssxfire.xpi*.
     * _If Firefox is not your default browser just copy the link in the address bar and paste it into Firefox._
     <a href="http://css-x-fire.googlecode.com/svn/images/install_6.png"><img src="http://css-x-fire.googlecode.com/svn/images/install_6.png" width="120" height="80"/></a>
-  # Install the browser plugin by clicking on the link. Firefox will ask for permission to allow installation the plugin from an unknown publisher. You need to click "Yes" here. Restart Firefox when prompted.
+  # Install the browser plugin by clicking on the link. Firefox will ask for permission to allow installation of the plugin. You need to click "Allow" here. Restart Firefox when prompted.
+    <a href="http://css-x-fire.googlecode.com/svn/images/install_8.png"><img src="http://css-x-fire.googlecode.com/svn/images/install_8.png" width="120" height="80"/></a>
   # Start styling with pleasure!

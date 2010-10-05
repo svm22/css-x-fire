@@ -5,3 +5,9 @@
   * [http://getfirebug.com/firebuglite Firebug Lite] fully working with Google Chrome or Firefox
 
 = Details =
+
+  # Access the builtin help from CSS-X-Fire by pressing the "Help" icon in the IDE toolwindow.
+
+  # Follow the link for "Google Chrome or Firefox with Firebug Lite"
+
+  # Drag the *CSS-X-Fire* bookmarklet to the bookmarks toolbar.

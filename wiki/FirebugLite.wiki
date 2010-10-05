@@ -1,0 +1,7 @@
+#summary Using CSS-X-Fire with Firebug Lite
+
+= Prerequisites =
+
+  * [http://getfirebug.com/firebuglite Firebug Lite] fully working with Google Chrome or Firefox
+
+= Details =

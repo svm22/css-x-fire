@@ -1,6 +1,6 @@
 #summary How to install CSS-X-Fire
 
-[Installation] - [Screenshots] - [FAQ]
+[Installation] - [Screenshots] - [FAQ] - [About]
 
 = Requirements =
 

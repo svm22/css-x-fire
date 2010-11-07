@@ -1,0 +1,9 @@
+#summary About CSS-X-Fire
+
+[Installation] - [Screenshots] - [FAQ] - [About]
+
+= About =
+
+I am developing CSS-X-Fire in my spare time, which is possible thanks to my day-time job at [http://www.esn.me/ ESN]. My employer not only accepts but also encourages involvement in open-source projects. Head over to [http://pushingtheweb.com/open-source/ pushingtheweb.com] for a summary of open-source projects which my colleagues are involved in.
+
+CSS-X-Fire is free and open source software. You have the freedom to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software. It comes "as is" and without warranty of any kind. It is distributed under the terms of the Apache 2.0 license.

@@ -1,6 +1,6 @@
 #summary Frequently Asked Questions
 
-[Installation] - [Screenshots] - [FAQ]
+[Installation] - [Screenshots] - [FAQ] - [About]
 
 = Troubleshooting =
 

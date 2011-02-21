@@ -24,3 +24,7 @@ A: With every new version of the IDE plugin there is also a new version of the b
 
 A: Simply press the "Help" button in the CSS-X-Fire toolwindow. See screenshot:
   <a href="http://css-x-fire.googlecode.com/svn/images/install_4.png"><img src="http://css-x-fire.googlecode.com/svn/images/install_4.png" width="120" height="80"/></a>
+
+*Q: Can I use have the browser extension on one computer and have the IDE on another?
+
+A: Yes (with the Firefox extension). Open about:config and type cssxfire in the filter box. Now you should find the host setting which you may change to your desired host.

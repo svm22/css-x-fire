@@ -28,3 +28,16 @@ A: Simply press the "Help" button in the CSS-X-Fire toolwindow. See screenshot:
 *Q: Can I have the browser extension on one computer and have the IDE on another?
 
 A: Yes (with the Firefox extension). Open about:config and type cssxfire in the filter box. Now you should find the host setting which you may change to your desired host.
+
+= Collecting logs =
+
+  # Close the IDE
+  # Open file <IDE installation>/bin/log.xml with a text editor
+  # Scroll to the bottom and add the following lines *before* the {{{<root>}}} tag:
+  {{{
+  <category name="com.googlecode.cssxfire">
+       <priority value="DEBUG"/>
+  </category>
+  }}}
+  # Start the IDE and reproduce the problem
+  # Search for the log file *idea.log*, usually in a subfolder of your home directory

@@ -31,6 +31,8 @@ A: Yes (with the Firefox extension). Open about:config and type cssxfire in the 
 
 = Collecting logs =
 
+If you have a problem with the plugin or think that you have found a bug, CSS-X-Fire has a debugging mechanism which can be activated by following the steps below. Finding the cause of the problem is a lot easier with this debug information.
+
   # Close the IDE
   # Open file <IDE installation>/bin/log.xml with a text editor
   # Scroll to the bottom and add the following lines *before* the {{{<root>}}} tag:

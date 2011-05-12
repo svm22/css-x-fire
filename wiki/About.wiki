@@ -11,3 +11,7 @@ CSS-X-Fire is free and open source software. You have the freedom to use the sof
 For the latest news and updates on CSS-X-Fire:
 
 <a href="http://www.twitter.com/ronniekk"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-c.png" alt="Follow ronniekk on Twitter"/></a>
+
+If you find this plugin useful and want to say thank you, please consider making a small donation through Paypal. Just a couple of dollars is more than enough to make my day.
+
+<a title="Donate!" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=975RZQCCLGV6J"><img alt="Donate!" border="0" src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif"/></a>

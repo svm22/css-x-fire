@@ -37,7 +37,7 @@ If you have a problem with the plugin or think that you have found a bug, CSS-X-
   # Open file <IDE installation>/bin/log.xml with a text editor
   # Scroll to the bottom and add the following lines *before* the {{{<root>}}} tag:
   {{{
-  <category name="com.googlecode.cssxfire">
+  <category name="com.github.cssxfire">
        <priority value="DEBUG"/>
   </category>
   }}}
